@@ -2,16 +2,15 @@
   "name": "hw10_tut14_15",
   "version": "1.0.0",
   "main": "index.js",
-
-"scripts": {
+  "scripts": {
     "start": "node index.js"
-},
-  
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "dotenv": "^16.5.0",
     "ejs": "^3.1.10",
     "express": "^5.1.0",
